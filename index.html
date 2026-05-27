@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Data Analysis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Employee Data Analysis</h1>
+            <p>Cleaning, filtering, grouping &amp; insights on a sample employee dataset</p>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <!-- Summary Cards -->
+        <section class="cards" id="summary-cards"></section>
+
+        <!-- Department Stats -->
+        <section class="section">
+            <h2>Department Summary</h2>
+            <div class="table-wrapper">
+                <table id="dept-table">
+                    <thead>
+                        <tr>
+                            <th>Department</th>
+                            <th>Employees</th>
+                            <th>Avg Salary</th>
+                            <th>Avg Performance</th>
+                            <th>Avg Experience</th>
+                            <th>Avg Age</th>
+                        </tr>
+                    </thead>
+                    <tbody id="dept-body"></tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Key Insights -->
+        <section class="section">
+            <h2>Key Insights</h2>
+            <ul class="insights" id="insights-list"></ul>
+        </section>
+
+        <!-- Visualizations -->
+        <section class="section">
+            <h2>Visualizations</h2>
+            <img src="data/analysis_plots.png" alt="Analysis Plots" class="plots-img">
+        </section>
+
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Generated with Python &amp; Pandas &middot; Hosted on GitHub Pages</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
