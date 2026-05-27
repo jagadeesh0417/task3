@@ -1,0 +1,201 @@
+EmployeeID,Name,Age,Department,Salary,YearsExperience,PerformanceScore,JoinDate,City
+EMP001,Employee_1,60,Engineering,77000.0,17,62.3,2016-04-21,Seattle
+EMP002,Employee_2,50,Marketing,89000.0,27,68.8,2015-11-14,Boston
+EMP003,Employee_3,36,Engineering,82000.0,21,77.0,2015-09-02,Chicago
+EMP004,Employee_4,64,Finance,91000.0,20,85.0,2017-01-17,New York
+EMP005,Employee_5,29,Sales,49000.0,5,64.3,2016-11-27,New York
+EMP006,Employee_6,42,Support,500000.0,0,,2015-09-29,New York
+EMP007,Employee_7,60,Marketing,80000.0,4,77.2,2024-08-12,Denver
+EMP008,Employee_8,40,Finance,79000.0,11,100.0,2019-11-07,San Francisco
+EMP009,Employee_9,44,Finance,93000.0,25,72.6,2018-06-16,Austin
+EMP010,Employee_10,32,Engineering,79000.0,33,75.6,2021-08-21,Seattle
+EMP011,Employee_11,32,Sales,47000.0,13,96.4,2015-09-23,Chicago
+EMP012,Employee_12,45,HR,82000.0,25,82.1,2023-02-21,Boston
+EMP013,Employee_13,57,Support,,26,77.6,2017-07-09,Chicago
+EMP014,Employee_14,61,Marketing,56000.0,8,80.3,2024-05-23,Boston
+EMP015,Employee_15,45,Engineering,62000.0,25,78.0,2015-12-06,Denver
+EMP016,Employee_16,24,Finance,68000.0,21,61.3,2016-01-24,San Francisco
+EMP017,Employee_17,43,Finance,39000.0,29,58.9,2022-03-09,New York
+EMP018,Employee_18,23,Marketing,92000.0,16,97.6,2020-08-12,San Francisco
+EMP019,Employee_19,45,Engineering,,25,77.2,2024-08-01,Denver
+EMP020,Employee_20,51,Support,101000.0,0,76.2,2018-03-11,Austin
+EMP021,Employee_21,59,Marketing,48000.0,7,73.9,2016-01-11,Austin
+EMP022,Employee_22,23,Sales,96000.0,34,84.4,2020-07-26,Denver
+EMP023,Employee_23,42,Finance,69000.0,14,100.0,2021-06-29,Boston
+EMP024,Employee_24,54,HR,36000.0,21,81.3,2015-05-26,Seattle
+EMP025,Employee_25,33,Finance,49000.0,13,67.9,2020-06-04,Seattle
+EMP026,Employee_26,43,Engineering,97000.0,25,73.4,2015-10-20,Boston
+EMP027,Employee_27,46,Sales,79000.0,27,87.9,2016-03-07,Austin
+EMP028,Employee_28,48,HR,68000.0,22,68.0,2016-12-05,Austin
+EMP029,Employee_29,63,Engineering,26000.0,13,85.2,2023-03-16,Austin
+EMP030,Employee_30,49,Engineering,98000.0,23,47.2,2020-06-21,San Francisco
+EMP031,Employee_31,37,Support,107000.0,1,72.2,2022-03-17,Austin
+EMP032,Employee_32,36,Sales,104000.0,25,,2016-02-03,Chicago
+EMP033,Employee_33,24,Marketing,58000.0,13,90.2,2022-11-04,New York
+EMP034,Employee_34,58,Support,78000.0,6,65.2,2024-05-08,Austin
+EMP035,Employee_35,28,Support,80000.0,2,57.0,invalid-date,Boston
+EMP036,Employee_36,42,Sales,39000.0,22,71.9,2023-10-17,New York
+EMP037,Employee_37,30,Support,74000.0,17,61.5,2021-02-12,San Francisco
+EMP038,Employee_38,60,Engineering,91000.0,34,73.2,2020-08-03,Boston
+EMP039,Employee_39,39,Marketing,85000.0,14,74.9,2020-01-03,New York
+EMP040,Employee_40,25,,48000.0,24,,2020-10-09,Boston
+EMP041,Employee_41,46,Finance,53000.0,27,,2017-07-27,San Francisco
+EMP042,Employee_42,35,Support,86000.0,9,73.1,2024-06-13,Chicago
+EMP043,,30,Sales,83000.0,16,88.0,2016-12-10,San Francisco
+EMP044,Employee_44,47,Support,25000.0,21,52.9,2017-03-17,San Francisco
+EMP045,Employee_45,23,Support,21000.0,25,62.8,2019-01-03,Boston
+EMP046,Employee_46,41,Support,68000.0,24,81.2,2024-04-13,Denver
+EMP047,Employee_47,49,Finance,58000.0,16,65.4,2018-08-18,Seattle
+EMP048,Employee_48,28,,64000.0,12,73.0,2024-05-08,Austin
+EMP049,Employee_49,29,Sales,62000.0,19,75.0,2015-01-11,Austin
+EMP050,Employee_50,56,Marketing,90000.0,24,76.9,2017-12-21,Chicago
+EMP051,Employee_51,35,Support,72000.0,3,66.9,2020-02-12,Chicago
+EMP052,Employee_52,38,Support,75000.0,9,76.8,2021-03-23,Austin
+EMP053,Employee_53,57,Marketing,43000.0,2,65.6,2023-10-30,Seattle
+EMP054,Employee_54,61,Marketing,250000.0,17,83.1,2022-02-24,Austin
+EMP055,Employee_55,25,Sales,92000.0,21,73.6,2017-02-10,Denver
+EMP056,Employee_56,23,Sales,113000.0,33,76.9,2019-05-14,Seattle
+EMP057,Employee_57,27,Support,63000.0,7,,2019-05-27,Chicago
+EMP058,Employee_58,63,Engineering,75000.0,18,,2024-12-25,New York
+EMP059,Employee_59,25,Engineering,76000.0,5,91.7,2018-08-26,Boston
+EMP060,Employee_60,50,Sales,104000.0,25,43.1,2017-06-03,Denver
+EMP061,Employee_61,39,Engineering,88000.0,33,50.1,2024-01-28,Denver
+EMP062,Employee_62,47,Marketing,80000.0,5,60.1,2024-10-04,Chicago
+EMP063,Employee_63,55,Finance,71000.0,32,60.9,2018-10-21,Chicago
+EMP064,Employee_64,31,Finance,71000.0,21,,2024-04-24,San Francisco
+EMP065,Employee_65,57,Marketing,41000.0,20,78.5,2023-09-14,Denver
+EMP066,Employee_66,35,Sales,62000.0,5,71.9,2015-08-14,San Francisco
+EMP067,Employee_67,52,Sales,88000.0,5,73.2,2017-04-04,San Francisco
+EMP068,Employee_68,36,HR,65000.0,3,81.3,2021-03-15,Boston
+EMP069,Employee_69,29,Marketing,71000.0,29,85.0,2017-07-25,San Francisco
+EMP070,,35,Sales,46000.0,10,59.1,2022-09-01,Seattle
+EMP071,Employee_71,44,Support,79000.0,29,70.7,2021-12-28,Austin
+EMP072,Employee_72,61,Sales,41000.0,30,74.2,2021-04-25,New York
+EMP073,Employee_73,42,Support,76000.0,23,80.8,2020-03-26,Chicago
+EMP074,Employee_74,37,Sales,,8,65.7,2024-10-28,Seattle
+EMP075,Employee_75,39,Marketing,35000.0,2,73.9,2019-12-02,New York
+EMP076,Employee_76,45,HR,91000.0,30,75.4,2015-02-23,Denver
+EMP077,Employee_77,47,HR,67000.0,23,66.5,invalid-date,Denver
+EMP078,Employee_78,46,Support,107000.0,30,66.3,2016-12-27,Denver
+EMP079,Employee_79,62,Engineering,100000.0,5,76.2,2022-06-29,Seattle
+EMP080,Employee_80,50,Sales,52000.0,1,73.4,2019-03-25,Seattle
+EMP081,Employee_81,36,,54000.0,19,81.0,2023-09-06,Chicago
+EMP082,Employee_82,22,Finance,47000.0,27,62.4,2017-11-09,Austin
+EMP083,Employee_83,46,Engineering,38000.0,10,70.8,2020-03-28,San Francisco
+EMP084,Employee_84,28,Support,62000.0,3,72.2,2019-11-12,Denver
+EMP085,Employee_85,30,Sales,99000.0,14,84.8,2019-05-16,Boston
+EMP086,Employee_86,45,Marketing,32000.0,5,63.7,2020-03-29,Austin
+EMP087,Employee_87,22,Support,87000.0,29,77.8,2024-10-01,Boston
+EMP088,Employee_88,29,Finance,85000.0,1,78.0,2021-10-02,Chicago
+EMP089,Employee_89,45,Support,81000.0,14,94.8,2022-06-30,Chicago
+EMP090,Employee_90,32,,85000.0,10,62.9,2017-04-29,Chicago
+EMP091,Employee_91,70,Sales,48000.0,7,67.1,2020-10-10,New York
+EMP092,Employee_92,29,Sales,85000.0,25,63.8,2023-10-22,Boston
+EMP093,Employee_93,56,Support,59000.0,4,55.0,2021-03-13,Austin
+EMP094,Employee_94,56,Engineering,21000.0,5,96.2,2015-01-03,Austin
+EMP095,Employee_95,54,Marketing,71000.0,25,60.1,2015-06-09,Seattle
+EMP096,Employee_96,26,Engineering,53000.0,3,65.2,2017-02-19,Seattle
+EMP097,,63,Marketing,97000.0,18,90.8,2023-09-27,Denver
+EMP098,Employee_98,60,Sales,64000.0,19,54.0,2017-06-11,Seattle
+EMP099,Employee_99,62,Marketing,71000.0,32,84.1,2020-07-23,Chicago
+EMP100,Employee_100,49,Marketing,78000.0,19,58.0,2023-08-27,Austin
+EMP101,Employee_101,28,Finance,65000.0,11,90.0,2021-07-04,Boston
+EMP102,Employee_102,30,Support,68000.0,0,49.0,2016-08-02,Chicago
+EMP103,Employee_103,29,Engineering,87000.0,25,54.0,2020-04-17,New York
+EMP104,Employee_104,33,Engineering,49000.0,13,68.5,2018-10-12,Seattle
+EMP105,Employee_105,55,HR,56000.0,10,86.7,2018-07-14,Chicago
+EMP106,Employee_106,54,Marketing,51000.0,12,,2019-06-29,Chicago
+EMP107,Employee_107,44,Marketing,99000.0,2,71.0,2017-08-09,New York
+EMP108,Employee_108,45,Marketing,56000.0,32,91.2,2024-04-17,San Francisco
+EMP109,Employee_109,58,Marketing,67000.0,5,100.0,2022-05-06,Austin
+EMP110,Employee_110,56,Finance,58000.0,9,83.1,invalid-date,Boston
+EMP111,Employee_111,61,Engineering,64000.0,4,67.5,2024-11-21,Denver
+EMP112,Employee_112,43,Finance,55000.0,22,70.0,2018-05-03,San Francisco
+EMP113,Employee_113,48,Sales,79000.0,9,59.5,2017-07-09,Seattle
+EMP114,Employee_114,56,Marketing,49000.0,1,76.2,2022-08-17,Chicago
+EMP115,Employee_115,22,Sales,43000.0,12,55.4,2018-09-17,New York
+EMP116,Employee_116,56,Marketing,59000.0,1,81.6,2015-06-19,New York
+EMP117,Employee_117,58,HR,54000.0,19,99.1,2016-06-04,Austin
+EMP118,Employee_118,35,Engineering,,0,83.6,2019-01-26,San Francisco
+EMP119,Employee_119,24,Engineering,64000.0,8,69.4,2015-02-09,Denver
+EMP120,Employee_120,22,HR,37000.0,16,81.3,2019-04-10,Austin
+EMP121,Employee_121,26,Engineering,105000.0,8,94.4,2024-02-15,Chicago
+EMP122,Employee_122,47,Engineering,40000.0,10,93.8,2018-11-19,Austin
+EMP123,Employee_123,35,Marketing,57000.0,14,63.0,2017-08-12,Boston
+EMP124,Employee_124,60,Engineering,62000.0,23,81.1,2024-01-11,New York
+EMP125,Employee_125,48,Support,104000.0,34,73.1,2017-09-10,New York
+EMP126,Employee_126,30,Engineering,,29,84.7,2023-10-01,Seattle
+EMP127,Employee_127,36,Sales,73000.0,30,79.6,2017-09-01,Seattle
+EMP128,Employee_128,36,Sales,91000.0,4,46.6,2015-02-07,Denver
+EMP129,Employee_129,47,HR,64000.0,13,70.8,2021-07-03,Chicago
+EMP130,Employee_130,63,Marketing,47000.0,10,,2018-06-28,Boston
+EMP131,Employee_131,34,Engineering,,8,,2018-04-14,San Francisco
+EMP132,Employee_132,53,Support,101000.0,33,82.0,2019-06-14,Austin
+EMP133,Employee_133,60,Finance,58000.0,11,56.7,2017-07-02,Denver
+EMP134,Employee_134,53,Support,99000.0,34,65.4,2016-03-29,Chicago
+EMP135,Employee_135,25,Marketing,75000.0,34,91.1,2015-02-06,Seattle
+EMP136,Employee_136,51,Engineering,95000.0,0,64.4,2024-04-10,Austin
+EMP137,Employee_137,58,Marketing,74000.0,21,81.9,2019-09-08,Seattle
+EMP138,Employee_138,44,Sales,60000.0,28,54.0,2023-04-09,Austin
+EMP139,Employee_139,60,Marketing,103000.0,7,100.0,2017-03-06,San Francisco
+EMP140,Employee_140,36,Finance,75000.0,10,71.3,2017-08-30,Chicago
+EMP141,Employee_141,64,Marketing,73000.0,13,76.1,invalid-date,Austin
+EMP142,Employee_142,50,,86000.0,29,77.1,2018-02-11,Boston
+EMP143,Employee_143,57,Sales,88000.0,34,82.3,2023-07-09,Denver
+EMP144,Employee_144,34,Finance,,20,56.8,2018-08-17,New York
+EMP145,Employee_145,53,Engineering,43000.0,4,74.9,2021-03-21,Boston
+EMP146,Employee_146,28,Sales,,18,67.1,2015-11-14,Boston
+EMP147,Employee_147,43,HR,57000.0,13,54.7,2021-07-24,Denver
+EMP148,Employee_148,49,Engineering,54000.0,25,86.8,2020-12-02,New York
+EMP149,Employee_149,23,Engineering,53000.0,3,70.8,2022-07-08,Boston
+EMP150,Employee_150,63,Support,57000.0,24,77.9,2018-09-08,Austin
+EMP151,Employee_151,27,Finance,77000.0,24,77.2,2019-05-11,Austin
+EMP152,Employee_152,49,Engineering,,17,71.0,2023-07-09,Austin
+EMP153,Employee_153,49,Marketing,70000.0,7,98.7,2020-03-04,New York
+EMP154,Employee_154,41,Sales,61000.0,13,74.4,2020-09-18,Boston
+EMP155,Employee_155,51,Finance,96000.0,31,56.3,2020-06-19,New York
+EMP156,Employee_156,32,Marketing,68000.0,32,70.2,2019-11-08,Austin
+EMP157,Employee_157,49,Engineering,89000.0,22,81.0,2018-08-05,Denver
+EMP158,Employee_158,46,,59000.0,14,81.4,2018-07-09,Boston
+EMP159,Employee_159,60,Sales,78000.0,32,61.9,2015-08-04,Boston
+EMP160,Employee_160,54,HR,97000.0,24,86.2,2023-10-24,Seattle
+EMP161,Employee_161,22,Engineering,18000.0,16,53.8,2021-07-11,Seattle
+EMP162,Employee_162,48,Support,57000.0,32,88.7,2023-11-14,San Francisco
+EMP163,Employee_163,34,Sales,82000.0,1,59.2,2020-11-09,Chicago
+EMP164,Employee_164,62,Engineering,94000.0,13,72.3,2021-07-28,Seattle
+EMP165,Employee_165,24,Engineering,,5,87.8,2022-03-03,New York
+EMP166,Employee_166,60,Engineering,71000.0,5,76.4,2024-12-21,Seattle
+EMP167,Employee_167,27,Support,102000.0,2,84.8,2022-11-03,San Francisco
+EMP168,Employee_168,29,HR,95000.0,6,82.4,2019-09-01,Boston
+EMP169,Employee_169,48,Sales,53000.0,7,90.4,2022-09-29,San Francisco
+EMP170,Employee_170,30,HR,72000.0,14,87.7,2015-12-29,Boston
+EMP171,Employee_171,58,Sales,77000.0,28,69.6,invalid-date,Denver
+EMP172,Employee_172,54,Finance,104000.0,32,82.6,2024-05-09,Denver
+EMP173,Employee_173,63,Engineering,87000.0,29,56.7,2019-09-13,Boston
+EMP174,Employee_174,45,Sales,68000.0,26,74.3,2018-04-08,Chicago
+EMP175,Employee_175,36,Engineering,74000.0,28,84.8,2015-12-22,Seattle
+EMP176,Employee_176,18,Engineering,,32,76.6,2015-07-10,New York
+EMP177,Employee_177,53,Marketing,89000.0,26,80.4,2021-10-05,New York
+EMP178,Employee_178,45,Engineering,83000.0,32,72.4,2016-11-30,Austin
+EMP179,Employee_179,62,Engineering,94000.0,3,88.5,2020-08-16,Boston
+EMP180,Employee_180,33,,67000.0,21,74.0,2020-12-20,New York
+EMP181,Employee_181,60,Support,73000.0,1,69.4,2016-07-10,Chicago
+EMP182,Employee_182,23,,60000.0,9,85.6,2017-04-05,Boston
+EMP183,Employee_183,24,Engineering,47000.0,4,58.1,2022-09-09,Chicago
+EMP184,Employee_184,58,Finance,58000.0,9,81.0,2017-11-20,New York
+EMP185,Employee_185,38,Finance,34000.0,32,62.5,2022-01-26,New York
+EMP186,Employee_186,23,Marketing,88000.0,12,90.3,2016-03-01,Austin
+EMP187,Employee_187,23,Sales,,30,71.9,2024-06-27,New York
+EMP188,Employee_188,49,HR,111000.0,23,76.6,2022-06-12,Boston
+EMP189,Employee_189,44,Engineering,35000.0,14,80.0,2021-08-07,Denver
+EMP190,Employee_190,58,Support,100000.0,28,51.8,2024-08-09,Boston
+EMP191,Employee_191,53,Support,52000.0,7,67.2,2019-04-24,Boston
+EMP192,Employee_192,54,Marketing,81000.0,4,87.5,2020-10-30,Austin
+EMP193,Employee_193,22,Engineering,55000.0,28,85.4,2021-07-31,Austin
+EMP194,Employee_194,40,Support,103000.0,3,78.4,2024-02-12,New York
+EMP195,Employee_195,23,Sales,71000.0,11,58.8,2016-08-11,San Francisco
+EMP196,Employee_196,47,Sales,91000.0,1,82.0,2020-07-05,San Francisco
+EMP197,Employee_197,53,HR,,26,83.6,2019-03-28,Austin
+EMP198,Employee_198,27,HR,300000.0,30,75.6,2015-10-22,New York
+EMP199,Employee_199,53,Support,,25,89.7,2020-06-08,San Francisco
+EMP200,Employee_200,25,Support,,26,66.8,2018-06-01,New York
